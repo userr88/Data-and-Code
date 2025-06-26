@@ -1,0 +1,18 @@
+Datasets Used:
+CEADS Dataset:
+https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvsug_ucl_ac_uk/EmXFO8u2HiJGs4NXG56NE8UB2gu_bLP8lGpFws8mjb4K7A?e=sXjhKu
+
+Exiobase Dataset:
+https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvsug_ucl_ac_uk/EggqMU3EDBdItyNMR3lhJs0BrIN31_W_dMRDYx6nhwFUrg?e=16erId
+
+
+Code Explanation:
+Exiobase_ID Data Process.ipynb
+→ Using Python for processing EXIOBASE data specific to Indonesia scenario analysis.
+
+Exiobase_Worldwide Data Process.ipynb
+→ Using Python for global-level scenario modelling.
+
+CEADS_Data Process
+→ Using Power BI for processing and visualizing CEADs emission data.
+
